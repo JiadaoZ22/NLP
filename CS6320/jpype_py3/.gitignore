@@ -1,0 +1,26 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyd
+*.egg-info
+*.so
+
+# File generated during tests
+testSerial.dat
+
+# Build directory
+build/
+dist/
+
+# Coverage
+.coverage
+htmlcov/
+
+# IDE build directory
+.idea/
+.settings/
+Debug/
+Release/
+bin/
+classes/
+
